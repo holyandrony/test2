@@ -7,3 +7,4 @@
  */
 
 echo "done";
+die('version');
